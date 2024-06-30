@@ -3,11 +3,14 @@
 header img {
 
     height: 70px;
-    width: 70px
+    width: 70px;
 }
 
 /*Conteudo principal*/
+nav {
+    background-color: #f3f3f3;
 
+}
 
 /*banner*/
 
