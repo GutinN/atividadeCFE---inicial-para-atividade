@@ -3,7 +3,7 @@
 
 $(document).ready(function () {
     $("#botao-cadastrar").click(function () {
-        $("#form-cadastro").slideToggle("slow");
+        $("#form-cadastrar").slideToggle("slow");
         $("#section-login").slideToggle("slow");
         $("#botao-cadastrar").hide();
     });

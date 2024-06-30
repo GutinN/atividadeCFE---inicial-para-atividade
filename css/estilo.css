@@ -80,6 +80,7 @@ footer p {
 
 #section-loginh1 {
     text-align: center;
+    padding: 50px;
 }
 
 #section-logininput {
@@ -97,4 +98,10 @@ footer p {
 #form-cadastrar {
     padding: 50px;
     display: none;
+    
+}
+
+button {
+    padding: 50px;
+    background-color: black;
 }
